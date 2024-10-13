@@ -1,3 +1,11 @@
+
+
+
+
+![dark_angel_armor](https://github.com/user-attachments/assets/cdf8c646-8702-402d-aec7-faa48a2582d6)
+
+
+
 # XDR-SETUP
 XDR System Documentation
 1. Overview
